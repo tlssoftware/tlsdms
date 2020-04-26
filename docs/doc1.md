@@ -6,6 +6,8 @@ sidebar_label: Style Guide
 
 You can write content using [GitHub-flavored Markdown syntax](https://github.github.com/gfm/).
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9-Qfqnkrq68" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Markdown Syntax
 
 To serve as an example page when styling markdown based Docusaurus sites.
