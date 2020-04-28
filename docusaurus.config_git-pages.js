@@ -1,8 +1,8 @@
 module.exports = {
   title: 'Documentation',
   tagline: 'The tagline of my site',
-  url: 'http://docs.tlssoftwarevn.com/',
-  baseUrl: '/testapp/',
+  url: 'https://tlssoftware.github.io',
+  baseUrl: '/tlsdms/',
   favicon: 'img/favicon.ico',
   organizationName: 'tlssoftware', // Usually your GitHub org/user name.
   projectName: 'tlsdms', // Usually your repo name.
