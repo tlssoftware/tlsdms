@@ -1,8 +1,8 @@
 module.exports = {
   title: 'Documentation',
-  tagline: 'The tagline of my site',
+  tagline: 'Easy - Fast - Delivered',
   url: 'http://docs.tlssoftwarevn.com/',
-  baseUrl: '/testapp/',
+  baseUrl: '/',
   favicon: 'img/favicon.ico',
   organizationName: 'tlssoftware', // Usually your GitHub org/user name.
   projectName: 'tlsdms', // Usually your repo name.
@@ -11,19 +11,22 @@ module.exports = {
       title: 'TLS Software',
       logo: {
         alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        src: 'img/logo_stroke.png',
       },
       links: [
-        {
-          to: 'docs/doc1',
-          activeBasePath: 'docs',
-          label: 'Docs',
-          position: 'left',
+        // {
+        //   to: 'docs/doc1',
+        //   activeBasePath: 'docs',
+        //   label: 'Docs',
+        //   position: 'left',
+        // },
+        {to: 'blog', 
+        label: 'Blog', 
+        position: 'left'
         },
-        {to: 'blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
-          label: 'GitHub',
+          href: '',
+          label: 'Switch Me',
           position: 'right',
         },
       ],
@@ -70,12 +73,12 @@ module.exports = {
             },
             {
               label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
+              href: 'https://twitter.com/',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} TLS Software, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} TLS Software, Ltd.`,
     },
   },
   presets: [
