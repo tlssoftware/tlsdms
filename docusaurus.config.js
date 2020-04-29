@@ -24,11 +24,11 @@ module.exports = {
         label: 'Blog', 
         position: 'left'
         },
-        {
-          href: '',
-          label: 'Switch Me',
-          position: 'right',
-        },
+        // {
+        //   href: '',
+        //   label: 'Switch Me',
+        //   position: 'right',
+        // },
       ],
     },
     footer: {
